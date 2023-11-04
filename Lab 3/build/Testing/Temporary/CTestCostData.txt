@@ -1,0 +1,7 @@
+array-case1 4 0.13276
+array-case2 4 0.00159729
+array-case3 4 0.00187398
+linked-case1 4 0.0524193
+linked-case2 4 0.00155096
+linked-case3 4 0.00259882
+---
