@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/isaiah/Desktop/Career/Fall 2023/ELEC 278/Week 2/Lab2_S001/build",
+  "command": "/usr/bin/clang   -g -std=gnu11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.5 -o CMakeFiles/Lab2_S001.dir/main.c.o -c \"/Users/isaiah/Desktop/Career/Fall 2023/ELEC 278/Week 2/Lab2_S001/main.c\"",
+  "file": "/Users/isaiah/Desktop/Career/Fall 2023/ELEC 278/Week 2/Lab2_S001/main.c",
+  "output": "CMakeFiles/Lab2_S001.dir/main.c.o"
+}
+]
