@@ -1,0 +1,1 @@
+/usr/bin/clang -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/lab4.dir/main.c.o CMakeFiles/lab4.dir/queue.c.o CMakeFiles/lab4.dir/engine.c.o CMakeFiles/lab4.dir/util.c.o -o lab4 

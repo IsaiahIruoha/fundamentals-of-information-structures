@@ -1,0 +1,26 @@
+[
+{
+  "directory": "/Users/isaiah/Desktop/Career/Fall 2023/ELEC 278/Lab 4/lab4/build",
+  "command": "/usr/bin/clang   -g -std=gnu11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -o CMakeFiles/lab4.dir/main.c.o -c \"/Users/isaiah/Desktop/Career/Fall 2023/ELEC 278/Lab 4/lab4/main.c\"",
+  "file": "/Users/isaiah/Desktop/Career/Fall 2023/ELEC 278/Lab 4/lab4/main.c",
+  "output": "CMakeFiles/lab4.dir/main.c.o"
+},
+{
+  "directory": "/Users/isaiah/Desktop/Career/Fall 2023/ELEC 278/Lab 4/lab4/build",
+  "command": "/usr/bin/clang   -g -std=gnu11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -o CMakeFiles/lab4.dir/queue.c.o -c \"/Users/isaiah/Desktop/Career/Fall 2023/ELEC 278/Lab 4/lab4/queue.c\"",
+  "file": "/Users/isaiah/Desktop/Career/Fall 2023/ELEC 278/Lab 4/lab4/queue.c",
+  "output": "CMakeFiles/lab4.dir/queue.c.o"
+},
+{
+  "directory": "/Users/isaiah/Desktop/Career/Fall 2023/ELEC 278/Lab 4/lab4/build",
+  "command": "/usr/bin/clang   -g -std=gnu11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -o CMakeFiles/lab4.dir/engine.c.o -c \"/Users/isaiah/Desktop/Career/Fall 2023/ELEC 278/Lab 4/lab4/engine.c\"",
+  "file": "/Users/isaiah/Desktop/Career/Fall 2023/ELEC 278/Lab 4/lab4/engine.c",
+  "output": "CMakeFiles/lab4.dir/engine.c.o"
+},
+{
+  "directory": "/Users/isaiah/Desktop/Career/Fall 2023/ELEC 278/Lab 4/lab4/build",
+  "command": "/usr/bin/clang   -g -std=gnu11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -o CMakeFiles/lab4.dir/util.c.o -c \"/Users/isaiah/Desktop/Career/Fall 2023/ELEC 278/Lab 4/lab4/util.c\"",
+  "file": "/Users/isaiah/Desktop/Career/Fall 2023/ELEC 278/Lab 4/lab4/util.c",
+  "output": "CMakeFiles/lab4.dir/util.c.o"
+}
+]
