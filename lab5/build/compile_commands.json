@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/isaiah/Desktop/Career/Fall 2023/ELEC 278/Lab 5/lab5/build",
+  "command": "/usr/bin/clang   -g -std=gnu11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -o CMakeFiles/lab5.dir/main.c.o -c \"/Users/isaiah/Desktop/Career/Fall 2023/ELEC 278/Lab 5/lab5/main.c\"",
+  "file": "/Users/isaiah/Desktop/Career/Fall 2023/ELEC 278/Lab 5/lab5/main.c",
+  "output": "CMakeFiles/lab5.dir/main.c.o"
+}
+]
